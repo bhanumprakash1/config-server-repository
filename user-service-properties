@@ -1,0 +1,5 @@
+spring.h2.console.enable=ture
+spring.datasource.url=jdbc:n2:mem:userDB
+spring.data.username=sa
+spring.datasource.password=password
+spring.jpa.database-platform=ord.hibernate.dialect.h2Dialect
